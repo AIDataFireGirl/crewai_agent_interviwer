@@ -1,6 +1,6 @@
-# CrewAI Interviewer Agent
+#  Interviewer Agent
 
-This project implements a scalable CrewAI-based interviewer agent for assessing skills in Python, PySpark, SQL, and Kubernetes. The agent uses modular skill modules, guardrails for safe interactions, and context management to track the interview process.
+This project implements a scalable  interviewer agent for assessing skills in Python, PySpark, SQL, and Kubernetes. The agent uses modular skill modules, guardrails for safe interactions, and context management to track the interview process.
 
 ## Features
 - **Skill Modules:** Easily add or modify skill-specific questions.
